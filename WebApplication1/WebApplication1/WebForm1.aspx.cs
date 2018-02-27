@@ -18,5 +18,10 @@ namespace WebApplication1
         {
 
         }
+
+        public void method2()
+        {
+
+        }
     }
 }
